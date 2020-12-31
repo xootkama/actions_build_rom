@@ -1,0 +1,21 @@
+{
+  "clean": true,
+  "cleaning": "rm",
+  "sync": true,
+  "ccache": true,
+  "build": true,
+  "wetransfer": true,
+  "release": true,
+  "artifact": false,
+  "sourceforge" true,
+  "rom": "crdroid",
+  "manifest": "git://github.com/crdroidandroid/android.git",
+  "branch": "11.0",
+  "brand": "xiaomi",
+  "lunch": "lineage",
+  "target": "tiffany",
+  "variant": "userdebug",
+  "sf_name": "laityts",
+  "clean_dt": true,
+  "clean_repo": false
+}
