@@ -20,7 +20,7 @@ on:
        target:
          description: 'Device Code'
          required: true
-         default: 'tiffany'
+         default: 'RMX1851'
        ccache:
          description: 'Ccache'
          required: true
