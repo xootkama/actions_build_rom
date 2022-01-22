@@ -17,7 +17,7 @@ description: 'SSHPASS Github Action'
 branding:
   icon: dollar-sign
   color: gray-dark
-runs-on: ubuntu-18.04
+runs-on: ubuntu-20.04
 runs:
   using: 'docker'
   image: 'Dockerfile'
