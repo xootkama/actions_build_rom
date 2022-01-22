@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 
 LABEL "com.github.actions.name"="SSHPASS Github Action"
 LABEL "com.github.actions.description"="SSHPASS Github Action"
