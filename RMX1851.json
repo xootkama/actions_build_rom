@@ -1,0 +1,27 @@
+[
+  {
+    "url":"git@github.com:xootkama/ev12_IllusionX_sdm710.git",
+    "target_path":"kernel/realme/sdm710-common",
+    "branch":"ra"
+  },
+  {
+    "url":"git@github.com:xootkama/device_3pro.git",
+    "target_path":"device/realme/RMX1851",
+    "branch":"12"
+  },
+  {
+    "url":"git@github.com:aashiq-exe/ev12_vendor_realme_sdm710-common.git",
+    "target_path":"vendor/realme/sdm710-common",
+    "branch":"12"
+  },
+  {
+    "url":"git@github.com:xootkama/android_vendor_realme_RMX1851.git",
+    "target_path":"vendor/realme/RMX1851",
+    "branch":"master"
+  },
+  {
+    "url":"git@github.com:SheikhFaisal713/android_device_realme_sdm710-common.git",
+    "target_path":"device/realme/sdm710-common",
+    "branch":"twelve"
+  }
+]  
